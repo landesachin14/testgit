@@ -12,3 +12,10 @@ again changes form master
 changes for feature -1 
 
 
+hungry=input(ar you hungry)
+
+if hungry==yes
+
+print(" Pizza");
+
+
